@@ -1,0 +1,66 @@
+SPORTING ALLSTARS — IMAGE ASSETS CHECKLIST
+==========================================
+Drop your images into this /assets/ folder alongside sporting-allstars.html.
+All filenames must match exactly (lowercase, hyphens, .jpg or .svg).
+
+HERO
+----
+hero-sport.jpg              Full-width hero background. Cinematic action shot.
+                            Recommended: 2400×1600px landscape, high contrast
+
+APP STORE BADGES (SVG)
+----------------------
+app-store-badge.svg         Official Apple App Store badge
+google-play-badge.svg       Official Google Play badge
+                            Download official SVGs from:
+                            Apple:  developer.apple.com/app-store/marketing/guidelines/
+                            Google: play.google.com/intl/en_us/badges/
+
+JOURNEY — PHONE SCREEN BACKGROUNDS
+------------------------------------
+journey-club-feed.jpg       Screen 0: Club Feed    — action/training/crowd photo
+journey-team-chat.jpg       Screen 1: Team Chat    — team huddle/dressing room
+journey-memberships.jpg     Screen 2: Memberships  — close-up club kit/badge
+journey-match-centre.jpg    Screen 3: Match Centre — live match/stadium photo
+journey-player-profile.jpg  Screen 4: Player Profile — individual athlete in action
+journey-school-sport.jpg    Screen 5: School Sport — school sports day/youth sport
+                            Recommended: 600×1200px portrait (phone aspect ratio)
+
+GENERAL / COMMUNITY
+--------------------
+community-moment.jpg        Full-width visual break section. Wide landscape shot.
+                            Community/crowd/celebration. 2400×1400px
+community-clubs.jpg         Community section wide strip. Club/team gathering.
+                            1800×640px landscape
+
+SOCIAL SECTION
+--------------
+matchday-moment.jpg         Social card 1 — matchday action
+team-achievement.jpg        Social card 2 — team trophy/celebration
+social-feed.jpg             Social card 3 + phone feed thumb — social moment
+                            Recommended: 800×600px, portrait or square works
+
+SAFETY SECTION
+--------------
+parent-community.jpg        Editorial card 1 — "Parent Connected"
+                            Parent watching child play sport
+coach-athlete.jpg           Editorial card 2 — "Coach Supported"
+                            Coach with athlete/team, trust/communication feel
+                            Recommended: 1200×700px landscape
+
+SCHOOLS SECTION
+---------------
+school-sport.jpg            School section banner — youth school sport
+                            1800×560px landscape
+
+PATHWAYS SECTION
+----------------
+pathways.jpg                Subtle background texture for pathways section
+                            Any wide atmospheric sports image, opacity 18%
+
+==========================================
+TOTAL: 18 files (16 JPGs + 2 SVGs)
+
+TIP: All images use CSS background-image so JPG/WebP both work fine.
+     Brand fallback colours show if an image is missing — no broken icons.
+==========================================
